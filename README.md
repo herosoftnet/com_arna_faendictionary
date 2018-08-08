@@ -1,8 +1,8 @@
-# com_arna_tracker
-ردیاب شماره موبایل
+# com_arna_faendictionary
+دیکشنری انگلیسی به فارسی و برعکس 
 ## Privacy Policy
 
-MasterAppDeveloper built the com_arna_tracker app as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
+MasterAppDeveloper built the com_arna_faendictionary app as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
